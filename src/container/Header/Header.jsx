@@ -31,7 +31,7 @@ const Header = () => {
       <img src={logo} alt="Logo" />
     </div>
     <h3>Hi, I am</h3>
-    <h1>Sabri Chetouane</h1>
+    <h1>Asis Kumar Dandapat</h1>
     <p><span id='spin'></span></p>
     <div className='social-icons'>
       <a href=""><BiLogoGmail size={'30px'} color='black'/></a>

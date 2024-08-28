@@ -9,7 +9,7 @@ const Footer = () => {
 <img   src={arrow} alt="" />
        <a href="#header">BACK TO TOP</a></div>
       <Links />
-     <p className='footer-text'><strong>© 2024 Daas Houssem</strong> All Rights Reserved.</p> 
+     <p className='footer-text'><strong>© 2024 asiskumardandapat90@gmail.com</strong> All Rights Reserved.</p> 
     </div>
   )
 }
